@@ -1,9 +1,9 @@
 ## TELAS DO APP
 ## Listagem de turma
 <p align="center">
-<img width="30%" height="600" src="assets/tela-01.jpeg" />
-<img width="30%" height="600" src="assets/tela-02.jpeg" />
-<img width="30%" height="600" src="assets/tela-03.jpeg" />
+<img width="32%" height="600" src="assets/tela-01.jpeg" />
+<img width="32%" height="600" src="assets/tela-02.jpeg" />
+<img width="32%" height="600" src="assets/tela-03.jpeg" />
 </p>
 
 
